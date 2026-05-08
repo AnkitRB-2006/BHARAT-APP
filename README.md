@@ -1,9 +1,25 @@
-# BHARAT-APP
-ALL IN ONE E-COMMERSIAL Website , it includes all the services required for day-to-day life .
-This project in done for software engg. subject in final year by Ankit Ranjan Bhoi. Kristu Jayanti College 23-26 Batch
-It's just a prototype idea. not an actual app/website , it's server based website 
-FOR USING THIS:-
-You need XAMPP server 
-and the file should be placed in C/xampp/htdocs
-Apache and MySql server should be ON 
-then in browser search localhost/BHARAT_APP
+
+## 📁 Project Structure
+
+<!-- Add your project structure here -->
+
+## ✨ Features
+
+<!-- List main features of your e-commerce platform -->
+
+## 🛠️ Technologies Used
+
+<!-- Mention your tech stack: PHP, MySQL, HTML, CSS, JavaScript, etc. -->
+
+## 📝 License
+
+<!-- Add your license information -->
+
+## 👤 Author
+
+**Ankit Ranjan Bhoi**  
+Kristu Jayanti College (2023-2026)
+
+---
+
+For questions or issues, feel free to reach out!
